@@ -1,0 +1,4 @@
+
+front end written in html/javascript/jquery/socket.io
+
+uses node.js/socket.io and redis on the backend to store scores
